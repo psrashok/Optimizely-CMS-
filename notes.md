@@ -13,7 +13,7 @@ There are several different base types or categories of content in Optimizely CM
 Content Model, Content type inherits from the Content Interface and contains a set of specific properties.
 
 
-![Alt text](../../../../../C:/Users/ashok_su/source/Optimizely%20Notes/content.png)
+![Alt text](https://files.readme.io/4b1f714-content-2.png)
 
 (IContent) --> interface
 IContent interface also provides propertied such as 
