@@ -1,1 +1,0 @@
-https://docs.developers.optimizely.com/content-cloud/v12.0.0-content-cloud/docs/content-types#content-types
